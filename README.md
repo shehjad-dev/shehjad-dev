@@ -2,11 +2,11 @@
 <h3 align="center">Friendly Neighborhood Programmer</h3>
 
 
-- 👯 I’m looking to collaborate on **startups, saas products, web3**
+- 👯 I’m looking to collaborate on **Startups, Saas products, Web3**
 
-- 📫 How to reach me **satauskz@gmail.com**
+- 📫 Send me a mail at **satauskz@gmail.com**
 
-- ⚡ Fun fact **Life is full of bugs.**
+- ⚡ Fun fact **Life is full of bugs**
 
 
 <h3 align="left">Languages and Tools:</h3>
